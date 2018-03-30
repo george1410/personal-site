@@ -12,9 +12,9 @@
 </head>
 <body>
     <div class="wrapper">
-        <div class="container">
+        <div class="container-full">
             <div class="row justify-content-center">
-                <div class="col col-md-10">
+                <div class="col col-md-8">
                     <h1>George McCarron</h1>
                     <p class="intro">
                         Hello! Born and raised in the sunny South East of England, I'm now a first year Computer Science student at the University of Nottingham getting into just over £40,000 of debt.
