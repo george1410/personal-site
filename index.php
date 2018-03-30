@@ -21,12 +21,12 @@
                     </p>
                     <a class="btn btn-outline-dark intro-btn" href="mailto:hello@georgemccarron.com">Email me</a>
                     <div class="social-area">
-                        <a href="https://twitter.com/george_mccarron"><i class="fab fa-twitter"></i></a>
-                        <a href="https://instagram.com/george_mccarron"><i class="fab fa-instagram"></i></a>
-                        <a href="https://snapchat.com/add/georgemccarron"><i class="fab fa-snapchat-ghost"></i></a>
-                        <a href="https://open.spotify.com/user/georgieboy14"><i class="fab fa-spotify"></i></a>
-                        <a href="https://github.com/george1410"><i class="fab fa-github"></i></a>
-                        <a href="https://linkedin.com/in/george-mccarron-08517690"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://twitter.com/george_mccarron" target="_blank"><i class="fab fa-twitter"></i></a>
+                        <a href="https://instagram.com/george_mccarron" target="_blank"><i class="fab fa-instagram"></i></a>
+                        <a href="https://snapchat.com/add/georgemccarron" target="_blank"><i class="fab fa-snapchat-ghost"></i></a>
+                        <a href="https://open.spotify.com/user/georgieboy14" target="_blank"><i class="fab fa-spotify"></i></a>
+                        <a href="https://github.com/george1410" target="_blank"><i class="fab fa-github"></i></a>
+                        <a href="https://linkedin.com/in/george-mccarron-08517690" target="_blank"><i class="fab fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
