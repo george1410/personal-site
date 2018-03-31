@@ -35,10 +35,12 @@
     <div class="projects container-full">
         <div class="row">
             <div class="col-md-6">
-                <h2>GCSE Countdown</h2>
-                <div class="zoom-img-container">
-                    <img src="images/gcsecount.png" class="img-fluid" alt="GCSE Countdown Website">
-                </div>
+                <a href="#" class="project-link">
+                    <h2>GCSE Countdown</h2>
+                    <div class="zoom-img-container">
+                        <img src="images/gcsecount.png" class="img-fluid" alt="GCSE Countdown Website">
+                    </div>
+                </a>
             </div>
             <div class="col-md-6">
                 <h2>Another Project</h2>
