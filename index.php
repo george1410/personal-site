@@ -99,7 +99,7 @@
                                 <li>2017 - Present</li>
                                 <li>BSc (Hons) Computer Science</li>
                             </ul>
-                            <li>Dartford Grammar School</li>
+                            <li>Dartford Grammar School Sixth Form</li>
                             <ul>
                                 <li>2015 - 2017</li>
                                 <li>IB Diploma, 40 Points</li>
@@ -119,26 +119,26 @@
                                     <li>HTML 5</li>
                                     <li>CSS 3</li>
                                     <li>JavaScript</li>
-                                    <li>jQuery</li>
+                                    <li>PHP</li>
                                 </ul>
                             </div>
                             <div class="col-md-4">
                                 <ul>
                                     <li>MATLAB</li>
                                     <li>Python</li>
-                                    <li>PHP</li>
                                     <li>SQL</li>
+                                    <li>Haskell</li>
                                 </ul>
                             </div>
                             <div class="col-md-4">
                                 <ul>
                                     <li>Java</li>
                                     <li>C</li>
-                                    <li>Haskell</li>
                                     <li>Assembly</li>
                                 </ul>
                             </div>
                         </div>
+                        <p>I also have experience with a number of development frameworks and tools such as; Docker, Git, node.js & jQuery.</p>
                     </div>
                 </div>
             </div>
