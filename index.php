@@ -32,6 +32,15 @@
             </div>
         </div>
     </div>
-    <div class="fill"></div>
+    <div class="projects container-full">
+        <div class="row">
+            <div class="col-md-6">
+                <h2>GCSE Countdown</h2>
+            </div>
+            <div class="col-md-6">
+                <h2>Another Project</h2>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
