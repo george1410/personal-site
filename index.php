@@ -112,17 +112,19 @@
                         </ul>
                     </div>
                     <div class="col-md-6 skills">
-                        <h2>Skills</h2>
+                        <h2>Languages</h2>
                         <div class="row">
                             <div class="col-md-4">
                                 <ul>
                                     <li>HTML 5</li>
                                     <li>CSS 3</li>
                                     <li>JavaScript</li>
+                                    <li>jQuery</li>
                                 </ul>
                             </div>
                             <div class="col-md-4">
                                 <ul>
+                                    <li>MATLAB</li>
                                     <li>Python</li>
                                     <li>PHP</li>
                                     <li>SQL</li>
@@ -130,9 +132,10 @@
                             </div>
                             <div class="col-md-4">
                                 <ul>
-                                    <li>Haskell</li>
                                     <li>Java</li>
                                     <li>C</li>
+                                    <li>Haskell</li>
+                                    <li>Assembly</li>
                                 </ul>
                             </div>
                         </div>
