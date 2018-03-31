@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>George McCarron</title>
-    <link href="https://fonts.googleapis.com/css?family=Cardo:400,400i,700|Montserrat:400,500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cardo:400,400i,700,700i|Montserrat:400,500,700" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="style.css">
@@ -84,6 +84,40 @@
                         <!--<img src="images/x.png" class="img-fluid" alt="">-->
                     </div>
                 </a>
+            </div>
+        </div>
+    </div>
+    <div class="container-full padder">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="row">
+                    <div class="col-md-4">
+                        <h2>Education</h2>
+                        <ul class="edu-list">
+                            <li>University of Nottingham</li>
+                            <ul>
+                                <li>2017 - Present</li>
+                                <li>BSc (Hons) Computer Science</li>
+                            </ul>
+                            <li>Dartford Grammar School</li>
+                            <ul>
+                                <li>2015 - 2017</li>
+                                <li>IB Diploma, 40 Points</li>
+                            </ul>
+                            <li>Dartford Grammar School</li>
+                            <ul>
+                                <li>2010 - 2015</li>
+                                <li>GCSEs, 9A* 3A</li>
+                            </ul>
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <h2>Skills</h2>
+                    </div>
+                    <div class="col-md-4">
+                        <h2>Something Else</h2>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
