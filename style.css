@@ -49,7 +49,7 @@ h2 {
     border: #495057 solid 3px;
 }
 
-.projects {
+.projects, .bucket {
     background: #343a40;
 }
 
@@ -74,6 +74,10 @@ h2 {
 .projects {
     padding: 10px 30px;
     padding-bottom: 60px;
+}
+
+.bucket {
+    padding: 30px;
 }
 
 .zoom-img-container {

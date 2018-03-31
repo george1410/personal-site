@@ -65,15 +65,18 @@
                         <span class="project-tag">Filming</span><span class="project-tag">Editing</span><span class="project-tag">Graphics</span>
                     </div>
                     <div class="zoom-img-container">
-                        <img src="images/leavers_thumb.jpg" class="img-fluid" alt="School Leavers Video Thumbnail">
+                        <img src="images/leavers_thumb.png" class="img-fluid" alt="School Leavers Video Thumbnail">
                     </div>
                 </a>
             </div>
             <div class="col-md-4">
                 <a href="#" class="project-link">
-                    <h2>Another Project</h2>
+                    <h2>George McCarron 2017</h2>
+                    <div class="tags">
+                    <span class="project-tag">JavaScript</span><span class="project-tag">HTML5</span><span class="project-tag">CSS3</span>
+                    </div>
                     <div class="zoom-img-container">
-                        <!--<img src="images/x.png" class="img-fluid" alt="">-->
+                        <img src="images/portfolio17.png" class="img-fluid" alt="">
                     </div>
                 </a>
             </div>
@@ -143,6 +146,9 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="bucket container-full">
+        <p>This is my bucket list. The things I want to do in life.</p>
     </div>
 </body>
 </html>
