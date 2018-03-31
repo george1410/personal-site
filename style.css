@@ -75,3 +75,17 @@ h2 {
 .projects {
     margin: 30px;
 }
+
+.zoom-img-container {
+    overflow: hidden;
+}
+
+.zoom-img-container:hover img {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.zoom-img-container img {
+    -webkit-transition: 0.6s ease;
+    transition: 0.6s ease;
+}
