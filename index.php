@@ -73,7 +73,7 @@
                 <a href="#" class="project-link">
                     <h2>George McCarron 2017</h2>
                     <div class="tags">
-                    <span class="project-tag">JavaScript</span><span class="project-tag">HTML5</span><span class="project-tag">CSS3</span>
+                        <span class="project-tag">JavaScript</span><span class="project-tag">HTML5</span><span class="project-tag">CSS3</span>
                     </div>
                     <div class="zoom-img-container">
                         <img src="images/portfolio17.png" class="img-fluid" alt="">
@@ -82,9 +82,12 @@
             </div>
             <div class="col-md-4">
                 <a href="#" class="project-link">
-                    <h2>Another Project</h2>
+                    <h2>TrackMyCAS Android App</h2>
+                    <div class="tags">
+                        <span class="project-tag">Java</span><span class="project-tag">PHP</span><span class="project-tag">Android</span>
+                    </div>
                     <div class="zoom-img-container">
-                        <!--<img src="images/x.png" class="img-fluid" alt="">-->
+                        <img src="images/trackmycas.png" class="img-fluid" alt="">
                     </div>
                 </a>
             </div>
