@@ -85,7 +85,7 @@
                     </div>
                 </a>
             </div>
-        </row>
+        </div>
     </div>
 </body>
 </html>
