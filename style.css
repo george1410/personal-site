@@ -78,6 +78,7 @@ h2 {
 
 .bucket {
     padding: 30px;
+    background: #f5f5f5;
 }
 
 .zoom-img-container {
@@ -162,4 +163,14 @@ h2 {
     font-size: 1.2rem;
     color: #888888;
     font-style: italic
+}
+
+.bucket p {
+    font-family: 'Cardo', serif;
+    font-size: 2rem;
+    color: #888888;
+}
+
+.bucket p strong {
+    color: #495057;
 }

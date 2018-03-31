@@ -151,7 +151,11 @@
         </div>
     </div>
     <div class="bucket container-full">
-        <p>This is my bucket list. The things I want to do in life.</p>
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <p><strong>The Bucket List:</strong> A place where I can tick off all of my long-term goals. Life isn't worth wasting.</p>
+            </div>
+        </div>
     </div>
 </body>
 </html>
