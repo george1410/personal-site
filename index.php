@@ -91,7 +91,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-6">
                         <h2>Education</h2>
                         <ul class="edu-list">
                             <li>University of Nottingham</li>
@@ -111,11 +111,31 @@
                             </ul>
                         </ul>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-6 skills">
                         <h2>Skills</h2>
-                    </div>
-                    <div class="col-md-4">
-                        <h2>Something Else</h2>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <ul>
+                                    <li>HTML 5</li>
+                                    <li>CSS 3</li>
+                                    <li>JavaScript</li>
+                                </ul>
+                            </div>
+                            <div class="col-md-4">
+                                <ul>
+                                    <li>Python</li>
+                                    <li>PHP</li>
+                                    <li>SQL</li>
+                                </ul>
+                            </div>
+                            <div class="col-md-4">
+                                <ul>
+                                    <li>Haskell</li>
+                                    <li>Java</li>
+                                    <li>C</li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
