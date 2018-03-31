@@ -43,7 +43,12 @@
                 </a>
             </div>
             <div class="col-md-6">
-                <h2>Another Project</h2>
+                <a href="#" class="project-link">
+                    <h2>IB Question Finder</h2>
+                    <div class="zoom-img-container">
+                        <img src="images/ibquestions.png" class="img-fluid" alt="IB Question Finder Website">
+                    </div>
+                </a>
             </div>
         </div>
     </div>

@@ -21,7 +21,7 @@ h1, h2 {
 }
 
 h2 {
-    color: #495057;
+    color: #888888;
     font-size: 0.9rem;
 }
 
@@ -49,9 +49,8 @@ h2 {
     border: #495057 solid 3px;
 }
 
-.fill {
-    min-height: 500px;
-    background: #495057;
+.projects {
+    background: #343a40;
 }
 
 .social-area {
@@ -73,7 +72,7 @@ h2 {
 }
 
 .projects {
-    margin: 30px;
+    padding: 60px 30px;
 }
 
 .zoom-img-container {
