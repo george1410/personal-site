@@ -50,14 +50,18 @@ h2 {
 }
 
 .intro-btn-light {
-    border-color: #d3d3d3;
-    color: #f5f5f5;
+    border-color: #888888;
+    color: #888888;
 }
 
 .intro-btn-light:hover {
-    border: #d3d3d3 solid 3px;
-    background: #d3d3d3;
+    border: #f5f5f5 solid 3px;
+    background: #f5f5f5;
     color: #343a40;
+}
+
+.hire-me {
+    color: #d3d3d3;
 }
 
 .projects, .bucket {

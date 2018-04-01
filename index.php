@@ -94,7 +94,7 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-md-6 text-center">
-                <p class="text-center">Like what you see? I am currently available for freelance work & would love to work with you.</p>
+                <p class="text-center hire-me">Like what you see? I am currently available for freelance work & would love to work with you.</p>
                 <a class="btn btn-outline-dark intro-btn-light" href="mailto:hello@georgemccarron.com">Email me</a>
             </div>
         </div>
@@ -163,20 +163,44 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-md-10">
+            <div class="col-md-9">
                 <div class="row">
-                    <div class="col-md-3"><h3>Learn to Drive</h3></div>
-                    <div class="col-md-3"><h3>Fly First Class</h3></div>
-                    <div class="col-md-3"><h3>Fly in a Helicopter</h3></div>
-                    <div class="col-md-3"><h3>Ride a Hot Air Balloon</h3></div>
-                    <div class="col-md-3"><h3>Do a Colour Run</h3></div>
-                    <div class="col-md-3"><h3>Run a Marathon</h3></div>
-                    <div class="col-md-3"><h3>Go Skiing</h3></div>
-                    <div class="col-md-3"><h3>Jump Out of a Plane</h3></div>
-                    <div class="col-md-3"><h3>See the Northern Lights</h3></div>
-                    <div class="col-md-3"><h3>Go to the Airport and Take a Random Flight</h3></div>
-                    <div class="col-md-3"><h3>Visit America</h3></div>
-                    <div class="col-md-3"><h3>Earn a Six-Figure Salary</h3></div>
+                    <div class="col-md-3">
+                        <h3>Learn to Drive</h3>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Fly First Class</h3>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Fly in a Helicopter</h3>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Ride a Hot Air Balloon</h3>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Do a Colour Run</h3>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Run a Marathon</h3>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Go Skiing</h3>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Jump Out of a Plane</h3>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>See the Northern Lights</h3>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Go to the Airport and Take a Random Flight</h3>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Visit America</h3>
+                    </div>
+                    <div class="col-md-3">
+                        <h3>Earn a Six-Figure Salary</h3>
+                    </div>
                 </div>
             </div>
         </div>
