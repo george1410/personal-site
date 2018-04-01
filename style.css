@@ -210,3 +210,9 @@ p.bucket-intro {
 p.completed {
     color: #28a745;
 }
+
+p.bucket-info {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #495057;
+}

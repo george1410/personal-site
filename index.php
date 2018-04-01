@@ -167,50 +167,62 @@
                 <div class="row">
                     <div class="col-md-3 bucket-item">
                         <h3>Learn to Drive</h3>
+                        <p class="bucket-info">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                         <p class="completed">Completed 30/06/2016</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Fly First Class</h3>
+                        <p class="bucket-info">Curabitur ac felis non enim tempor luctus ut nec lacus.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Fly in a Helicopter</h3>
+                        <p class="bucket-info">Etiam sem mauris, tincidunt nec tellus vel, scelerisque fringilla libero.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Ride a Hot Air Balloon</h3>
+                        <p class="bucket-info">Cras purus erat, hendrerit nec ex at, aliquam vulputate mauris.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Do a Colour Run</h3>
+                        <p class="bucket-info">Mauris eros orci, iaculis in lorem sed, dapibus facilisis nisi.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Run a Marathon</h3>
+                        <p class="bucket-info">Morbi ut posuere orci. Etiam vulputate mattis tincidunt.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Go Skiing</h3>
+                        <p class="bucket-info">Cras accumsan feugiat enim, at maximus turpis tincidunt eget.</p>
                         <p class="completed">Completed 16/02/2013</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Jump Out of a Plane</h3>
+                        <p class="bucket-info">Nulla ac dui in lectus fermentum laoreet vel ac tellus.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>See the Northern Lights</h3>
+                        <p class="bucket-info">Vivamus tempor justo eget diam venenatis, ac vulputate nulla lacinia.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Go to the Airport and Take a Random Flight</h3>
+                        <p class="bucket-info">Ut gravida justo sem, ut finibus turpis dignissim at.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Visit America</h3>
+                        <p class="bucket-info">Aliquam dignissim facilisis enim hendrerit pharetra.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Earn a Six-Figure Salary</h3>
+                        <p class="bucket-info">Nam id urna auctor, lacinia lectus nec, viverra elit.</p>
                         <p>Not Yet Completed</p>
                     </div>
                 </div>
