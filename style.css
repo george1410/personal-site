@@ -51,7 +51,7 @@ h2 {
 
 .intro-btn-light {
     border-color: #888888;
-    color: #888888;
+    color: #d3d3d3;
 }
 
 .intro-btn-light:hover {
@@ -130,6 +130,11 @@ h2 {
     border-radius: 1.2rem;
 }
 
+.hire-me { 
+    font-family: 'Cardo', serif;
+    font-size: 1.6rem;
+    color: #d3d3d3;
+}
 .tags {
     margin-bottom: 15px;
     margin-top: 15px;
