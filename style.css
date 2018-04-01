@@ -180,12 +180,28 @@ h2 {
     font-style: italic
 }
 
-.bucket h3, p {
+.bucket h3, .bucket p {
     font-family: 'Cardo', serif;
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     color: #888888;
+    font-weight: 700;
 }
 
 .bucket p {
     color: #495057;
+    font-size: 1.1rem;
+}
+
+p.bucket-intro {
+    font-size: 1.8rem;
+    font-weight: 400;
+}
+
+.bucket-item {
+    margin-bottom: 30px;
+    margin-top : 40px;
+}
+
+p.completed {
+    color: #28a745;
 }

@@ -159,47 +159,59 @@
     <div class="bucket container-full">
         <div class="row justify-content-center">
             <div class="col-md-6">
-                <p><strong>The Bucket List:</strong> A place where I can tick off all of my long-term goals. Because life isn't worth wasting.</p>
+                <p class="bucket-intro"><strong>The Bucket List:</strong> A place where I can tick off all of my long-term goals. Because life isn't worth wasting.</p>
             </div>
         </div>
         <div class="row justify-content-center">
             <div class="col-md-9">
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-md-3 bucket-item">
                         <h3>Learn to Drive</h3>
+                        <p class="completed">Completed 30/06/2016</p>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 bucket-item">
                         <h3>Fly First Class</h3>
+                        <p>Not Yet Completed</p>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 bucket-item">
                         <h3>Fly in a Helicopter</h3>
+                        <p>Not Yet Completed</p>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 bucket-item">
                         <h3>Ride a Hot Air Balloon</h3>
+                        <p>Not Yet Completed</p>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 bucket-item">
                         <h3>Do a Colour Run</h3>
+                        <p>Not Yet Completed</p>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 bucket-item">
                         <h3>Run a Marathon</h3>
+                        <p>Not Yet Completed</p>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 bucket-item">
                         <h3>Go Skiing</h3>
+                        <p class="completed">Completed 16/02/2013</p>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 bucket-item">
                         <h3>Jump Out of a Plane</h3>
+                        <p>Not Yet Completed</p>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 bucket-item">
                         <h3>See the Northern Lights</h3>
+                        <p>Not Yet Completed</p>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 bucket-item">
                         <h3>Go to the Airport and Take a Random Flight</h3>
+                        <p>Not Yet Completed</p>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 bucket-item">
                         <h3>Visit America</h3>
+                        <p>Not Yet Completed</p>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-md-3 bucket-item">
                         <h3>Earn a Six-Figure Salary</h3>
+                        <p>Not Yet Completed</p>
                     </div>
                 </div>
             </div>
