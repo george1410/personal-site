@@ -29,6 +29,11 @@ h2 {
     font-family: 'Cardo', serif;
     font-size: 1.9rem;
     color: #495057;
+    margin-bottom: 10px;
+}
+
+.smallprint {
+    font-size: 0.8rem;
 }
 
 .intro-btn, .intro-btn-light {
@@ -215,4 +220,5 @@ p.bucket-info {
     font-size: 1rem;
     font-weight: 400;
     color: #495057;
+    text-align: justify;
 }

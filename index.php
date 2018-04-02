@@ -17,8 +17,9 @@
                 <div class="col col-md-8">
                     <h1>George McCarron</h1>
                     <p class="intro">
-                        Hello! Born and raised in the sunny South East of England, I'm now a first year Computer Science student at the University of Nottingham getting into just over £40,000 of debt.
+                        Hello! Born and raised in the sunny South East of England<sup>*</sup>, I'm now a first year Computer Science student at the University of Nottingham getting into just over £40,000 of debt.
                     </p>
+                    <p class="intro smallprint">* Sunshine not guaranteed.</p>
                     <a class="btn btn-outline-dark intro-btn" href="mailto:hello@georgemccarron.com">Email me</a>
                     <div class="social-area">
                         <a href="https://twitter.com/george_mccarron" target="_blank"><i class="fab fa-twitter"></i></a>
@@ -167,62 +168,62 @@
                 <div class="row">
                     <div class="col-md-3 bucket-item">
                         <h3>Learn to Drive</h3>
-                        <p class="bucket-info">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="bucket-info">A kind of really important part of daily life that should probably be mastered.</p>
                         <p class="completed">Completed 30/06/2016</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Fly First Class</h3>
-                        <p class="bucket-info">Curabitur ac felis non enim tempor luctus ut nec lacus.</p>
+                        <p class="bucket-info">Living the dream. Hopefully off to somewhere nice & sunny.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Fly in a Helicopter</h3>
-                        <p class="bucket-info">Etiam sem mauris, tincidunt nec tellus vel, scelerisque fringilla libero.</p>
+                        <p class="bucket-info">This would just be pretty cool tbh.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Ride a Hot Air Balloon</h3>
-                        <p class="bucket-info">Cras purus erat, hendrerit nec ex at, aliquam vulputate mauris.</p>
+                        <p class="bucket-info">Not sure hot to go about this one, but hopefully it can be done...</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Do a Colour Run</h3>
-                        <p class="bucket-info">Mauris eros orci, iaculis in lorem sed, dapibus facilisis nisi.</p>
+                        <p class="bucket-info">Supposedly the 'happiest 5k on the planet'. I'll be the judge of that.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Run a Marathon</h3>
-                        <p class="bucket-info">Morbi ut posuere orci. Etiam vulputate mattis tincidunt.</p>
+                        <p class="bucket-info">It's a pretty big challenge, but I survived the IB; therefore I can do anything.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Go Skiing</h3>
-                        <p class="bucket-info">Cras accumsan feugiat enim, at maximus turpis tincidunt eget.</p>
+                        <p class="bucket-info">There's just something really really cool about skiing - excuse the pun...</p>
                         <p class="completed">Completed 16/02/2013</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Jump Out of a Plane</h3>
-                        <p class="bucket-info">Nulla ac dui in lectus fermentum laoreet vel ac tellus.</p>
+                        <p class="bucket-info">With a parachute, obviously. Im not <em>that</em> stupid.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>See the Northern Lights</h3>
-                        <p class="bucket-info">Vivamus tempor justo eget diam venenatis, ac vulputate nulla lacinia.</p>
+                        <p class="bucket-info">Mother Nature was against me on this one last time I was in Iceland, but my parents didn't raise a quiter.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Go to the Airport and Take a Random Flight</h3>
-                        <p class="bucket-info">Ut gravida justo sem, ut finibus turpis dignissim at.</p>
+                        <p class="bucket-info">Just rock up one day and see where in the world I end up!</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Visit America</h3>
-                        <p class="bucket-info">Aliquam dignissim facilisis enim hendrerit pharetra.</p>
+                        <p class="bucket-info">Ahhh, the USA. What a place. Surely worth a visit.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Earn a Six-Figure Salary</h3>
-                        <p class="bucket-info">Nam id urna auctor, lacinia lectus nec, viverra elit.</p>
+                        <p class="bucket-info">Gotta pay off all that student debt one way or another!</p>
                         <p>Not Yet Completed</p>
                     </div>
                 </div>
