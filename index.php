@@ -168,7 +168,7 @@
                 <div class="row">
                     <div class="col-md-3 bucket-item">
                         <h3 class="completed">Learn to Drive</h3>
-                        <p class="bucket-info">A kind of really important part of daily life that should probably be mastered.</p>
+                        <p class="bucket-info completed">A kind of really important part of daily life that should probably be mastered.</p>
                         <p class="completed">Completed 30/06/2016</p>
                     </div>
                     <div class="col-md-3 bucket-item">
@@ -198,7 +198,7 @@
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3 class="completed">Go Skiing</h3>
-                        <p class="bucket-info">There's just something really really cool about skiing - excuse the pun...</p>
+                        <p class="bucket-info completed">There's just something really really cool about skiing - excuse the pun...</p>
                         <p class="completed">Completed 16/02/2013</p>
                     </div>
                     <div class="col-md-3 bucket-item">
