@@ -212,8 +212,8 @@ p.bucket-intro {
     margin-top : 40px;
 }
 
-p.completed {
-    color: #28a745;
+.completed {
+    color: #28a745 !important;
 }
 
 p.bucket-info {
