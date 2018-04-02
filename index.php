@@ -223,7 +223,7 @@
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Earn a Six-Figure Salary</h3>
-                        <p class="bucket-info">Gotta pay off all that student debt one way or another!</p>
+                        <p class="bucket-info">Gotta pay off all that student debt one way or another 🙄</p>
                         <p>Not Yet Completed</p>
                     </div>
                 </div>
