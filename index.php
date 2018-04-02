@@ -208,7 +208,7 @@
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>See the Northern Lights</h3>
-                        <p class="bucket-info">Mother Nature was against me on this one last time I was in Iceland, but my parents didn't raise a quiter.</p>
+                        <p class="bucket-info">Was left disappointed last time I was in Iceland, but my parents didn't raise a quiter.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
