@@ -187,8 +187,8 @@
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
-                        <h3>Do a Colour Run</h3>
-                        <p class="bucket-info">Supposedly the 'happiest 5k on the planet'. I'll be the judge of that.</p>
+                        <h3>Learn to Fly</h3>
+                        <p class="bucket-info">Getting a Private Pilots Licence is pretty expensive, but I reckon it would be soooo worth it!</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
