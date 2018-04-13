@@ -26,6 +26,7 @@
                         <a href="https://instagram.com/george_mccarron" target="_blank"><i class="fab fa-instagram"></i></a>
                         <a href="https://snapchat.com/add/georgemccarron" target="_blank"><i class="fab fa-snapchat-ghost"></i></a>
                         <a href="https://open.spotify.com/user/georgieboy14" target="_blank"><i class="fab fa-spotify"></i></a>
+                        <a href="https://youtube.com/aguycalledgeorge" target="_blank"><i class="fab fa-youtube"></i></a>
                         <a href="https://github.com/george1410" target="_blank"><i class="fab fa-github"></i></a>
                         <a href="https://linkedin.com/in/george-mccarron-08517690" target="_blank"><i class="fab fa-linkedin"></i></a>
                     </div>
