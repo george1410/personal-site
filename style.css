@@ -121,7 +121,11 @@ h2 {
 }
 
 .project-link:hover {
-    text-decoration: none;
+    text-decoration: un;
+}
+
+.project-link h2 {
+    display: inline-block;
 }
 
 .projects .row {
