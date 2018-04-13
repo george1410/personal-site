@@ -249,6 +249,11 @@
                 <p><a href="https://github.com/george1410/personal-site" target="_blank">Get the code on GitHub!</a></p>
             </div>
         </div>
+        <div class="row justify-content-center">
+            <div class="col-md-1">
+                <img class="img-fluid rounded-circle" src="images/me.jpg" alt="George McCarron">
+            </div>
+        </div>
     </div>
 </body>
 </html>
