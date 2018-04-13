@@ -126,6 +126,11 @@ h2 {
 
 .project-link h2 {
     display: inline-block;
+    transition: all 0.3s;
+}
+
+.project-link h2:hover {
+    color: #d3d3d3;
 }
 
 .projects .row {
