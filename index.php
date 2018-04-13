@@ -151,7 +151,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <p>I also have experience with a number of development frameworks and tools such as; Docker, Git, node.js & jQuery.</p>
+                        <p>I also have experience with a number of development frameworks and tools such as; JUnit, Docker, Git, node.js & jQuery.</p>
                     </div>
                 </div>
             </div>
@@ -227,6 +227,15 @@
                         <p>Not Yet Completed</p>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-full footer padder">
+        <div class="row">
+            <div class="col-md-12">
+                <p class="cc-icons"><a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">c b a</a></p>
+                <p>This content of this site is licenced under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
+                <p><a href="https://github.com/george1410/personal-site" target="_blank">Get the code on GitHub!</a></p>
             </div>
         </div>
     </div>

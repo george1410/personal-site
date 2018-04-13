@@ -1,3 +1,8 @@
+@font-face {
+    font-family: cc-icons;
+    src: url(cc-icons.ttf);
+}
+
 html, body {
     margin: 0;
     padding: 0;
@@ -69,7 +74,7 @@ h2 {
     color: #d3d3d3;
 }
 
-.projects, .bucket {
+.projects, .bucket, .footer {
     background: #343a40;
 }
 
@@ -221,4 +226,36 @@ p.bucket-info {
     font-weight: 400;
     color: #495057;
     text-align: justify;
+}
+
+.footer p { 
+    text-align: center;
+    color: #d3d3d3;
+    font-family: 'Cardo', serif;
+    font-size: 1.1rem;
+}
+
+.footer p a {
+    color: #888888;
+    transition: all 0.3s;
+}
+
+.footer p a:hover {
+    color: #acacac;
+    text-decoration: none;
+}
+
+p.cc-icons a:hover {
+    text-decoration: none;
+}
+
+p.cc-icons {
+    font-family: cc-icons;
+    font-size: 1.6rem;
+    font-weight: normal;
+    margin-bottom: 0px;
+}
+
+.footer p:last-of-type {
+    margin-bottom: 0px;
 }
