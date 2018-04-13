@@ -120,10 +120,6 @@ h2 {
     transition: 0.6s ease;
 }
 
-.project-link:hover {
-    text-decoration: un;
-}
-
 .project-link h2 {
     display: inline-block;
     transition: all 0.3s;
