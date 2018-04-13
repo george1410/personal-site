@@ -242,13 +242,6 @@
         </div>
     </div>
     <div class="container-full footer padder">
-        <div class="row">
-            <div class="col-md-12">
-                <p class="cc-icons"><a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">c b a</a></p>
-                <p>This content of this site is licenced under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
-                <p><a href="https://github.com/george1410/personal-site" target="_blank">Get the code on GitHub!</a></p>
-            </div>
-        </div>
         <div class="row justify-content-center">
             <div class="col-md-1">
                 <img class="img-fluid rounded-circle" src="images/me.jpg" alt="George McCarron">
@@ -265,6 +258,14 @@
                     <a href="https://github.com/george1410" target="_blank"><i class="fab fa-github"></i></a>
                     <a href="https://linkedin.com/in/george-mccarron-08517690" target="_blank"><i class="fab fa-linkedin"></i></a>
                 </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <p>This content of this site is licenced under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA)</a></p>
+                <p class="cc-icons"><a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">c b a</a></p>
+                <p><a href="https://github.com/george1410/personal-site" target="_blank">Get the code on GitHub!</a></p>
             </div>
         </div>
     </div>
