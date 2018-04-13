@@ -162,7 +162,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <p>I also have experience with a number of development frameworks and tools such as; JUnit, Docker, Git, node.js &amp; jQuery.</p>
+                        <p>I also have experience with a number of development frameworks and tools such as JUnit, Docker, Git, node.js &amp; jQuery.</p>
                     </div>
                 </div>
             </div>
@@ -252,6 +252,19 @@
         <div class="row justify-content-center">
             <div class="col-md-1">
                 <img class="img-fluid rounded-circle" src="images/me.jpg" alt="George McCarron">
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="social-area">
+                    <a href="https://twitter.com/george_mccarron" target="_blank"><i class="fab fa-twitter"></i></a>
+                    <a href="https://instagram.com/george_mccarron" target="_blank"><i class="fab fa-instagram"></i></a>
+                    <a href="https://snapchat.com/add/georgemccarron" target="_blank"><i class="fab fa-snapchat-ghost"></i></a>
+                    <a href="https://open.spotify.com/user/georgieboy14" target="_blank"><i class="fab fa-spotify"></i></a>
+                    <a href="https://youtube.com/aguycalledgeorge" target="_blank"><i class="fab fa-youtube"></i></a>
+                    <a href="https://github.com/george1410" target="_blank"><i class="fab fa-github"></i></a>
+                    <a href="https://linkedin.com/in/george-mccarron-08517690" target="_blank"><i class="fab fa-linkedin"></i></a>
+                </div>
             </div>
         </div>
     </div>

@@ -260,3 +260,16 @@ p.cc-icons {
     font-weight: normal;
     margin-bottom: 0px;
 }
+
+.footer .social-area {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.footer .social-area a:hover { 
+    color: #d3d3d3;
+}
+
+.footer img {
+    border: solid 3px #888888;
+}
