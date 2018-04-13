@@ -106,7 +106,7 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-md-6 text-center">
-                <p class="text-center hire-me">Like what you see? I am currently available for freelance work & would love to work with you.</p>
+                <p class="text-center hire-me">Like what you see? I am currently available for freelance work &amp; would love to work with you.</p>
                 <a class="btn btn-outline-dark intro-btn-light" href="mailto:hello@georgemccarron.com">Email me</a>
             </div>
         </div>
@@ -162,7 +162,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <p>I also have experience with a number of development frameworks and tools such as; JUnit, Docker, Git, node.js & jQuery.</p>
+                        <p>I also have experience with a number of development frameworks and tools such as; JUnit, Docker, Git, node.js &amp; jQuery.</p>
                     </div>
                 </div>
             </div>
@@ -184,7 +184,7 @@
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Fly First Class</h3>
-                        <p class="bucket-info">Living the dream. Hopefully off to somewhere nice & sunny.</p>
+                        <p class="bucket-info">Living the dream. Hopefully off to somewhere nice &amp; sunny.</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
