@@ -263,7 +263,7 @@
 
         <div class="row">
             <div class="col-md-12">
-                <p>This content of this site is licenced under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA)</a></p>
+                <p><a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">The content of this site is licenced under a  Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA)</a></p>
                 <p class="cc-icons"><a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">c b a</a></p>
                 <p><a href="https://github.com/george1410/personal-site" target="_blank">Get the code on GitHub!</a></p>
             </div>
