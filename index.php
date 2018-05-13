@@ -37,26 +37,26 @@
     <div class="projects container-full">
         <div class="row">
             <div class="col-md-6">
-                <a href="#" class="project-link">
+                <a class="project-link">
                     <h2>GCSE Countdown</h2>
                 </a>
                 <div class="tags">
                     <span class="project-tag">JavaScript</span><span class="project-tag">HTML5</span><span class="project-tag">CSS3</span>
                 </div>
-                <a href="#" class="project-link">
+                <a class="project-link">
                     <div class="zoom-img-container">
                         <img src="images/gcsecount.png" class="img-fluid" alt="GCSE Countdown Website">
                     </div>
                 </a>
             </div>
             <div class="col-md-6">
-                <a href="#" class="project-link">
+                <a class="project-link">
                     <h2>IB Question Finder</h2>
                 </a>
                 <div class="tags">
                     <span class="project-tag">JavaScript</span><span class="project-tag">PHP</span><span class="project-tag">HTML5</span><span class="project-tag">CSS3</span>
                 </div>
-                <a href="#" class="project-link">
+                <a class="project-link">
                     <div class="zoom-img-container">
                         <img src="images/ibquestions.png" class="img-fluid" alt="IB Question Finder Website">
                     </div>
@@ -65,39 +65,39 @@
         </div>
         <div class="row">
             <div class="col-md-4">
-                <a href="#" class="project-link">
+                <a class="project-link">
                     <h2>School Leavers Video</h2>
                 </a>
                 <div class="tags">
                     <span class="project-tag">Filming</span><span class="project-tag">Editing</span><span class="project-tag">Graphics</span>
                 </div>
-                <a href="#" class="project-link">
+                <a class="project-link">
                     <div class="zoom-img-container">
                         <img src="images/leavers_thumb.png" class="img-fluid" alt="School Leavers Video Thumbnail">
                     </div>
                 </a>
             </div>
             <div class="col-md-4">
-                <a href="#" class="project-link">
+                <a class="project-link">
                     <h2>George McCarron 2017</h2>
                 </a>
                 <div class="tags">
                     <span class="project-tag">JavaScript</span><span class="project-tag">HTML5</span><span class="project-tag">CSS3</span>
                 </div>
-                <a href="#" class="project-link">
+                <a class="project-link">
                     <div class="zoom-img-container">
                         <img src="images/portfolio17.png" class="img-fluid" alt="">
                     </div>
                 </a>
             </div>
             <div class="col-md-4">
-                <a href="#" class="project-link">
+                <a class="project-link">
                     <h2>TrackMyCAS Android App</h2>
                 </a>    
                 <div class="tags">
                     <span class="project-tag">Java</span><span class="project-tag">PHP</span><span class="project-tag">Android</span>
                 </div>
-                <a href="#" class="project-link">
+                <a class="project-link">
                     <div class="zoom-img-container">
                         <img src="images/trackmycas.png" class="img-fluid" alt="">
                     </div>
