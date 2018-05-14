@@ -94,7 +94,7 @@
             <div class="col-md-4">
                 <a class="project-link">
                     <h2>TrackMyCAS Android App</h2>
-                </a>    
+                </a>
                 <div class="tags">
                     <span class="project-tag">Java</span><span class="project-tag">PHP</span><span class="project-tag">Android</span>
                 </div>
@@ -195,7 +195,7 @@
                     </div>
                     <div class="col-md-3 bucket-item">
                         <h3>Ride a Hot Air Balloon</h3>
-                        <p class="bucket-info">Not sure hot to go about this one, but hopefully it can be done...</p>
+                        <p class="bucket-info">Not sure how to go about this one, but hopefully it can be done...</p>
                         <p>Not Yet Completed</p>
                     </div>
                     <div class="col-md-3 bucket-item">
