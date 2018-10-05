@@ -18,7 +18,7 @@
                 <div class="col col-md-8">
                     <h1>George McCarron</h1>
                     <p class="intro">
-                        Hello! Born and raised in the sunny South East of England<sup>*</sup>, I'm now a first year Computer Science student at the University of Nottingham getting into just over £40,000 of debt.
+                        Hello! Born and raised in the sunny South East of England<sup>*</sup>, I'm now a second year Computer Science student at the University of Nottingham getting into just over £40,000 of debt.
                     </p>
                     <p class="intro smallprint">* Sunshine not guaranteed.</p>
                     <a class="btn btn-outline-dark intro-btn" href="mailto:hello@georgemccarron.com">Email me</a>
