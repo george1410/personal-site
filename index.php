@@ -137,7 +137,7 @@
                         </ul>
                     </div>
                     <div class="col-md-6 skills">
-                        <h2>Languages</h2>
+                        <h2>Technical Skills</h2>
                         <div class="row">
                             <div class="col-md-4">
                                 <ul>
