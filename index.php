@@ -122,7 +122,7 @@
                             <li>University of Nottingham</li>
                             <ul>
                                 <li>2017 - Present</li>
-                                <li>BSc (Hons) Computer Science | First Year: 1st Class (92%)</li>
+                                <li>BSc (Hons) Computer Science, First Year: 1st Class (92%)</li>
                             </ul>
                             <li>Dartford Grammar School Sixth Form</li>
                             <ul>
