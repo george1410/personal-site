@@ -281,3 +281,23 @@ p.cc-icons {
 .footer p:first-of-type {
     margin-top: 20px;
 }
+
+.banner-close {
+    float: right;
+}
+
+.banner-text {
+    margin: 0;
+    color: #f5f5f5;
+}
+
+.banner-text a {
+    color: #f5f5f5;
+    text-decoration: underline;
+}
+
+.banner {
+    background: #28a745;
+    padding: 20px 0;
+    text-align: center;
+}
