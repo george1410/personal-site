@@ -12,15 +12,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="banner">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <span class="banner-text">I'm currently on a 30 day social media detox! Read about it <a href="https://detox.georgemccarron.com">here.</a></span>
-                </div>
-            </div>
-        </div>
-    </div>
     <div class="wrapper">
         <div class="container-full">
             <div class="row justify-content-center">
