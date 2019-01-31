@@ -163,7 +163,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <p>I also have experience with a number of development frameworks and tools such as JUnit, Docker, Git, node.js &amp; jQuery.</p>
+                        <p>I also have experience with a number of development frameworks and tools such as JUnit, Docker, Git, node.js, jQuery &amp; React.</p>
                     </div>
                 </div>
             </div>
