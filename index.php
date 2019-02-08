@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- George McCarron 2019 Website -->
+<!-- George McCarron 2019 Website Ting -->
 <html lang="en">
 <head> 
     <meta charset="UTF-8">
