@@ -1,14 +1,18 @@
 import React, { Component } from 'react';
 import SocialArea from './SocialArea';
+import './IntroContainer.css';
 
 class IntroContainer extends Component {
   render() {
     return (
-      <>
-        <h1>George McCarron</h1>
-        <p>2nd year Computer Science student, preparing for the world of Software Engineering.</p>
-        <SocialArea/>
-      </>
+      <section className="intro">
+        <div>
+          <h1>George McCarron</h1>
+          <p>2nd year Computer Science Student. Aspiring Software Engineer.</p>
+          <SocialArea/>
+        </div>
+        <p className="down">Wait - There's More!</p>
+      </section>
     )
   }
 }

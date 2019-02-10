@@ -1,0 +1,31 @@
+.intro {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color: #343633;
+}
+
+h1, p {
+    text-align: center;
+    color: #53B3CB;
+}
+
+h1 {
+    font-size: 4.5rem;
+    text-transform: uppercase;
+    font-weight: 100;
+    letter-spacing: 0.8rem;
+}
+
+p {
+    font-weight: 200;
+    font-size: 1.7rem;
+    letter-spacing: 0.2rem
+}
+
+.down {
+    position: absolute;
+    bottom: 0px;
+}

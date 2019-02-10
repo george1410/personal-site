@@ -1,15 +1,20 @@
 import React, { Component } from 'react';
 import accounts from '../socialAccounts';
 import SocialIcon from './SocialIcon';
+import './SocialArea.css';
 
 class SocialArea extends Component {
   render() {
     return (
-      accounts.map(account => (
-        <SocialIcon
-          account = {account}
-        />
-      ))
+      <ul>
+        {accounts.map(account => (
+          <li>
+            <SocialIcon
+              account = {account}
+            />
+          </li>
+        ))}
+      </ul>
     );
   }
 }

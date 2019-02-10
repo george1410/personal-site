@@ -1,3 +1,5 @@
+// for supported icons see https://fontawesome.com/icons?d=gallery&s=brands
+
 const socialAccounts = [
   {
     service: 'Twitter',
@@ -37,7 +39,7 @@ const socialAccounts = [
   },
   {
     service: 'LinkedIn',
-    username: '@mccarrong',
+    username: 'mccarrong',
     url: 'https://www.linkedin.com/in/mccarrong/',
     icon: 'linkedin'
   }
