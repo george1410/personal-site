@@ -1,17 +1,21 @@
 import React, { Component } from 'react';
 import SocialArea from './SocialArea';
-import './IntroContainer.css';
+import styles from './IntroContainer.module.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 
 class IntroContainer extends Component {
   render() {
     return (
-      <section className="intro">
+      <section className={styles.intro}>
         <div>
-          <h1>George McCarron</h1>
-          <p>2nd year Computer Science Student. Aspiring Software Engineer.</p>
+          <h1 className={styles.mainTitle}>George McCarron</h1>
+          <p className={styles.tagline}>Second Year Computer Science Student. Aspiring Software Engineer.</p>
           <SocialArea/>
         </div>
-        <p className="down">Wait - There's More!</p>
+        <a href="#about" className={styles.down}>
+          <FontAwesomeIcon icon="chevron-circle-down"/>
+        </a>
       </section>
     )
   }

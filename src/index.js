@@ -5,8 +5,9 @@ import Page from './Components/Page';
 import * as serviceWorker from './serviceWorker';
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fab } from '@fortawesome/free-brands-svg-icons'
+import { faChevronCircleDown } from '@fortawesome/free-solid-svg-icons';
 
-library.add(fab);
+library.add(fab, faChevronCircleDown);
 ReactDOM.render(<Page />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
