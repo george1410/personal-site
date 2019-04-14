@@ -1,0 +1,35 @@
+.sectionTitle {
+    font-size: 5rem;
+    text-transform: uppercase;
+    font-weight: 100;
+    letter-spacing: 0.8rem;
+    color: #53B3CB;
+    margin: 1rem 0;
+}
+
+.root {
+    width: 1140px;
+    margin: 0 auto;
+    color: #C5FFFD;
+}
+
+.splitArea {
+    display: flex;
+    justify-content: space-between;
+}
+
+.half {
+    width: 45%;
+}
+
+.bio {
+    font-weight: 100;
+}
+
+.subsectionTitle {
+    color: #52B3CB;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 1.5rem;
+    letter-spacing: 0.5rem;
+}
