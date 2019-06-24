@@ -1,0 +1,48 @@
+@import '../../scss/colors.scss';
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav {
+  list-style-type: none;
+  padding: 0;
+  padding-right: 40px;
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+
+.item {
+  display: inline-block;
+  padding: 0 20px;
+  text-transform: lowercase;
+  letter-spacing: 0.05rem;
+  font-weight: 400;
+}
+
+.item a {
+  color: $pale_aqua;
+  text-decoration: none;
+}
+
+.item:first-child {
+  padding-left: 0;
+}
+
+.item:last-child {
+  padding-right: 0;
+}
+
+.logo {
+  padding: 10px 40px;
+  margin: 0;
+  color: $sunset_orange;
+  font-weight: 600;
+  letter-spacing: 0.04rem;
+}
