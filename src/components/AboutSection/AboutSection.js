@@ -16,6 +16,9 @@ function AboutSection() {
     <TitledArea title="Skills">
       <SkillsArea />
     </TitledArea>
+    <TitledArea title="Skills">
+      <SocialArea />
+    </TitledArea>
     </div>
   )
 }
