@@ -34,9 +34,11 @@ function SkillsArea() {
         <ul className={styles.list}>
           <li>Git / GitHub</li>
           <li>Travis CI</li>
+          <li>Jenkins</li>
           <li>Docker</li>
           <li>AWS</li>
-          <li>Bash</li>
+          <li>Bash / ZSH</li>
+          <li>MongoDB</li>
         </ul>
       </div>
     </div>
