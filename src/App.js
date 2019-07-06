@@ -5,6 +5,7 @@ import Section from './components/Section/Section';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faPaperPlane } from '@fortawesome/free-regular-svg-icons';
 import NavBar from './components/NavBar/NavBar';
+import AboutSection from './components/AboutSection/AboutSection';
 
 library.add(faPaperPlane);
 
@@ -15,6 +16,9 @@ function App() {
       <NavBar/>
       <Section>
         <TopSection />
+      </Section>
+      <Section>
+        <AboutSection/>
       </Section>
     </>
   );

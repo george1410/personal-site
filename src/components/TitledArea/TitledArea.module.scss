@@ -1,0 +1,43 @@
+@import '../../scss/colors.scss';
+
+.wrapper {
+  width: 100%;
+  margin: 50px 0;
+}
+
+.titlepart {
+  width: 20%;
+  display: inline-block;
+  vertical-align: top;
+  height: 100%;
+}
+
+.title {
+  padding: 0;
+  margin: 0;
+  text-align: right;
+  color: $pale_aqua;
+  text-transform: lowercase;
+  letter-spacing: 0.08rem;
+  font-size: 2.5rem;
+  vertical-align: top;
+}
+
+.content {
+  display: inline-block;
+  width: 75%;
+  padding-left: 40px;
+  box-sizing: border-box;
+  color: $ghost_white;
+  font-weight: 300;
+}
+
+.content > * {
+  margin: 0;
+}
+
+.content > p {
+  margin-bottom: 1rem;
+  line-height: 1.4rem;
+  letter-spacing: 0.03rem;
+}
