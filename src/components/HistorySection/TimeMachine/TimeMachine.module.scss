@@ -1,0 +1,13 @@
+@import '../../../scss/colors.scss';
+
+.timeMachine {
+  //background: red;
+  width: 100%;
+  display: flex;
+}
+
+.navigation {
+  display: flex;
+  flex-direction: column;
+  border-left: 3px solid $pale_aqua;
+}

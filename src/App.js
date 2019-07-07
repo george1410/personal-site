@@ -6,6 +6,7 @@ import { library } from '@fortawesome/fontawesome-svg-core';
 import { faPaperPlane } from '@fortawesome/free-regular-svg-icons';
 import NavBar from './components/NavBar/NavBar';
 import AboutSection from './components/AboutSection/AboutSection';
+import HistorySection from './components/HistorySection/HistorySection';
 
 library.add(faPaperPlane);
 
@@ -19,6 +20,9 @@ function App() {
       </Section>
       <Section>
         <AboutSection/>
+      </Section>
+      <Section>
+        <HistorySection/>
       </Section>
     </>
   );

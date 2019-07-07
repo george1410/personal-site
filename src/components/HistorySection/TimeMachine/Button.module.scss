@@ -1,0 +1,21 @@
+@import '../../../scss/colors.scss';
+
+.button {
+  padding: 20px 20px;
+  background: none;
+  outline: none;
+  border: none;
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: $ghost_white;
+  letter-spacing: 0.1rem;
+  cursor: pointer;
+}
+
+.button:hover, .button.active {
+  background: $pale_aqua;
+  color: $gunmetal;
+}
